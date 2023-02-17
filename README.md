@@ -1,0 +1,2 @@
+# quickquery
+A javascript library
